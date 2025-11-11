@@ -1,2 +1,2 @@
 # JS-Problem-Solving
-Problem Solving by JavaScript
+Problem-Solving | JavaScript
