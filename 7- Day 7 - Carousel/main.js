@@ -67,3 +67,5 @@ if (images.length > 0) {
 } else {
   console.error("Problem when upload images");
 }
+
+
